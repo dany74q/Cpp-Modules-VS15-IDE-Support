@@ -9,6 +9,7 @@ What's included:
   - Will probably have build-order problems with modules importing other modules
   - if someone could make a .targets file out of this it will be awesome!
   
+I recommend turning on intellisense on .ixx files via tools->options->Text Editor->File Extension (ixx, Visual c++)
 
-I ship this (in 'beta' stage) for you guys to tinker with.
+I ship this in its beta stage for you guys to tinker with, and to make modules usage more convenient.
 Pull request / fork if needed.
