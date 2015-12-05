@@ -12,5 +12,3 @@ What's included:
 
 I ship this (in 'beta' stage) for you guys to tinker with.
 Pull request / fork if needed.
-
-- Danny Shemesh
